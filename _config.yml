@@ -1,0 +1,23 @@
+name: Max Ryerson
+favicon: null
+layout_spectrum: 0.4629553162958473
+typography_spectrum: 0.29949746793136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6578060660976917
+  lightness: 0.7736069408711046
+  saturation: 0.2451280129607767
+  rhythmicContrast: 0.2662089769728482
+purpose: []
