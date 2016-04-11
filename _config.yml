@@ -1,6 +1,6 @@
 name: Max Ryerson
 favicon: null
-layout_spectrum: 0.40066
+layout_spectrum: 0.34768
 typography_spectrum: 0.64005
 title: 'Max Ryerson - Customer Experience & Digital Business Strategy Consultant'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#202e35'
     - '#484d4c'
     - '#7497a0'
-  brandStrength: 0.6875
-  lightness: 0.7736069408711046
+  brandStrength: 0.75
+  lightness: 0.625
   saturation: 0.2451280129607767
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
