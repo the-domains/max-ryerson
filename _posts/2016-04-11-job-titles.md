@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Max Ryerson is CEO - Global Innovation & Customer Experience Strategy @ StratForce. He is also the Co-Founder @ Lifeable and a Contributor @ Which-50.com'
-datePublished: '2016-04-11T06:22:22.310Z'
-dateModified: '2016-04-11T06:22:00.929Z'
+datePublished: '2016-04-11T06:23:02.734Z'
+dateModified: '2016-04-11T06:22:23.986Z'
 title: Job Titles
 author: []
 sourcePath: _posts/2016-04-11-job-titles.md
